@@ -1,0 +1,160 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+body{
+    font-size: 20px;
+    overflow-x: hidden;
+
+}
+
+body{
+	background:linear-gradient(rgba(0,0,0,0.5) ,rgba(0,0,0,0.2)), url('../images/autumn-mott-rodeheaver-45386-unsplash.jpg') ;
+
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 100vh;
+}
+
+.clearfix:after{
+   content: ".";
+   visibility: hidden;
+   display: block;
+   height: 0px;
+   clear: both;
+}
+.row{
+max-width: 1110px;
+
+margin: 0	auto;
+}
+.logo{
+	height: 90px;	
+width: auto;
+float: left; 
+margin-top: 50px;
+color: rgb(10,2,1);
+
+
+}
+.main-nav{
+	float: right;
+	margin-top:  60px;
+}
+.main-nav li{
+display: inline-block;
+list-style: none;
+margin-left: 40px;
+padding-top: 30px;
+}
+
+.main-nav li a{
+	color:white;
+	text-transform:  uppercase;
+	font-size: 110%;
+	text-decoration: none;
+	
+
+}
+
+.main-nav li a:hover{
+
+	 border-bottom: 3px solid pink;
+}
+h1{
+	color: rgb(32,32,32);
+	font-style: italic;
+	padding-top:12%; 
+ padding-left: 0%;
+	word-spacing: 2px;
+	letter-spacing: 5px;
+	margin-bottom: 30px;
+	
+	}
+
+
+
+
+.butn1{
+
+	padding-left: 0%;
+	font-size: 30px;
+	color: #fff;
+	text-decoration: none;
+font-family: 'Kaushan Script', cursive;
+	
+	margin-right: 20;
+	border:2px solid #bf55ec;
+}
+
+.butn1:hover{
+	background-color: #bf55ec;
+
+}
+
+.butn2{
+font-family: 'Kaushan Script', cursive;
+	padding-left: 0%;
+	font-size: 30px;
+	color: #fff;
+	text-decoration: none;
+	
+	margin-right:20;
+	border:2px solid #bf55ec;
+}
+.butn2:hover{
+
+	background-color: #bf55ec;
+}
+.info{
+ float: right;
+color: 	#808080;
+font-style: italic;
+font-weight: 1px;
+font-size-adjust: all;
+font-family: 'Kaushan Script', cursive;
+
+}
+
+.anime{
+
+	animation: animespan 1s infinite;
+}
+
+@keyframes animespan {
+
+0%{color: red;}
+25%{clear: #808080;}
+50%{color: white;}
+100%{color: yellow;}
+
+}
+
+.anime1{
+
+	animation: anime1span 1s infinite;
+}
+
+@keyframes anime1span {
+
+0%{color: blue;}
+25%{clear: #808080;}
+50%{color: green;}
+100%{color: grey;}
+
+}
+.anime2{
+
+	animation: anime2span 1s infinite;
+}
+
+@keyframes anime2span {
+
+0%{color: brown;}
+25%{clear: #808080;}
+50%{color: white;}
+100%{color: black;}
+
+}

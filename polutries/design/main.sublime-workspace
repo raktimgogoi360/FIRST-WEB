@@ -1,0 +1,406 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background-size\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"he",
+				"height\tproperty"
+			],
+			[
+				"padding",
+				"padding-bottom\tproperty"
+			],
+			[
+				"re",
+				"repeat-x\tbackground-repeat"
+			],
+			[
+				"f",
+				"font-weight\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"border",
+				"border-style\tproperty"
+			],
+			[
+				"bor",
+				"border-bottom\tproperty"
+			],
+			[
+				"font-a",
+				"font-size-adjust\tproperty"
+			],
+			[
+				"i",
+				"italic\tfont-style"
+			],
+			[
+				"fo",
+				"font-style\tproperty"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"l",
+				"left\tproperty"
+			],
+			[
+				"tr",
+				"transform\tproperty"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"cl",
+				"clear\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"le",
+				"letter-spacing\tproperty"
+			],
+			[
+				"wo",
+				"word-spacing\tproperty"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"r",
+				"rgb()\tcolor"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"I",
+				"italic\tfont-style"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"overflow",
+				"overflow-x\tproperty"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"inline",
+				"inline-flex\tdisplay"
+			],
+			[
+				"inli",
+				"inline-table\tdisplay"
+			],
+			[
+				"backg",
+				"background-position\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"tra",
+				"transform\tproperty"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"fot",
+				"font-size\tproperty"
+			],
+			[
+				"in",
+				"inline-flex\tdisplay"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"backgroun",
+				"background\tproperty"
+			],
+			[
+				"o",
+				"outline\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"FONT",
+				"font-size\tproperty"
+			],
+			[
+				"d",
+				"dotted\tborder-style"
+			],
+			[
+				"bo",
+				"border-style\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"background",
+				"background-image\tproperty"
+			],
+			[
+				"flo",
+				"float\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/my roommates project/index.html",
+		"/C/my roommates project/index_design.css",
+		"/C/my websites/polutries/index.html",
+		"/C/my websites/polutries/design/main.css",
+		"/C/my websites/polutries/Gogoi's Pvt. Lmt. _ chowzz lungg.html",
+		"/C/Users/RAKTIM GOGOI/Documents/.html",
+		"/C/polutries/html/about-us.html",
+		"/C/polutries/html/galary.html",
+		"/C/polutries/html/products.html",
+		"/C/polutries/html/our_company.html",
+		"/C/polutries/html/my_order.html",
+		"/C/polutries/design/main.css",
+		"/C/polutries/Gogoi's Pvt. Lmt. _ chowzz lungg.html",
+		"/C/polutries/design/my order.html",
+		"/C/polutries/images/pic4.jpg",
+		"/C/chowzz  poultries/chowzz.css",
+		"/C/demo web/aboutme.html",
+		"/C/demo web/contact.html",
+		"/C/demo web/home.html",
+		"/C/website/contact.css",
+		"/C/website/home.html",
+		"/C/website/index.html",
+		"/C/website/contact.html",
+		"/C/website/style.css",
+		"/C/website/aboutme.html",
+		"/C/website/portfolio.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
